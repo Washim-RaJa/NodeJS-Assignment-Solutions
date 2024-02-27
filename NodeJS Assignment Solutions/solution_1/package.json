@@ -1,0 +1,20 @@
+{
+  "name": "my-custom-package",
+  "version": "1.0.1",
+  "description": "This package is created as a task for PW Skills NodeJs assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "keywords": [
+    "my_custom_pkg",
+    "task",
+    "PW_Skills"
+  ],
+  "author": "Washim RaJa",
+  "license": "ISC"
+}
